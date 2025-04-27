@@ -5,3 +5,20 @@
     --cor-secundaria: #000205 ;
     --cor-destaque: #061c35;
 }
+
+body {
+    font-family: sans-serif;
+}
+
+h1, h2, h5 {
+    color: var(--cor-secundaria);
+    font-weight: 700;
+}
+
+footer h2 {
+    color: var(--cor-destaque)
+}
+
+footer a:hover {
+    color: var(--cor-principal)
+}
