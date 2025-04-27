@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --cor-principal: #f8f8f8 ;
+    --cor-secundaria: #000205 ;
+    --cor-destaque: #061c35;
+}
